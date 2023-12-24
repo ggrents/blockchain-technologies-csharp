@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\dotnet\blockchain-technologies\blockchain-technologies\obj\Debug\net7.0\blockchain-technologies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\dotnet\blockchain-technologies\blockchain-technologies\obj\Debug\net7.0\blockchain-technologies.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\dotnet\blockchain-technologies\blockchain-technologies\obj\Debug\net7.0\blockchain-technologies.AssemblyInfo.cs
+C:\Users\user\Desktop\dotnet\blockchain-technologies\blockchain-technologies\obj\Debug\net7.0\blockchain-technologies.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dotnet\blockchain-technologies\blockchain-technologies\bin\Debug\net7.0\blockchain-technologies.exe
+C:\Users\user\Desktop\dotnet\blockchain-technologies\blockchain-technologies\bin\Debug\net7.0\blockchain-technologies.deps.json
+C:\Users\user\Desktop\dotnet\blockchain-technologies\blockchain-technologies\bin\Debug\net7.0\blockchain-technologies.runtimeconfig.json
+C:\Users\user\Desktop\dotnet\blockchain-technologies\blockchain-technologies\bin\Debug\net7.0\blockchain-technologies.dll
+C:\Users\user\Desktop\dotnet\blockchain-technologies\blockchain-technologies\bin\Debug\net7.0\blockchain-technologies.pdb
+C:\Users\user\Desktop\dotnet\blockchain-technologies\blockchain-technologies\obj\Debug\net7.0\blockchain-technologies.dll
+C:\Users\user\Desktop\dotnet\blockchain-technologies\blockchain-technologies\obj\Debug\net7.0\refint\blockchain-technologies.dll
+C:\Users\user\Desktop\dotnet\blockchain-technologies\blockchain-technologies\obj\Debug\net7.0\blockchain-technologies.pdb
+C:\Users\user\Desktop\dotnet\blockchain-technologies\blockchain-technologies\obj\Debug\net7.0\blockchain-technologies.genruntimeconfig.cache
+C:\Users\user\Desktop\dotnet\blockchain-technologies\blockchain-technologies\obj\Debug\net7.0\ref\blockchain-technologies.dll
